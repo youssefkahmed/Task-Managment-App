@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table Name="Tasks">
+  <Task>
+    <TaskName>taskforce</TaskName>
+    <ProjectName>Operation Verdana</ProjectName>
+    <EmployeeName>SnoopDogg</EmployeeName>
+    <Comment>شغ7لشش</Comment>
+    <FileLoc>C:\Users\Yousef\Desktop\pics\banner.jpg</FileLoc>
+  </Task>
+  <Task>
+    <TaskName>Task2</TaskName>
+    <ProjectName>Operation Verdana</ProjectName>
+    <EmployeeName>AlexT</EmployeeName>
+    <Comment>yala</Comment>
+    <FileLoc>
+    </FileLoc>
+  </Task>
+  <Task>
+    <TaskName>Task3</TaskName>
+    <ProjectName>Operation Lucida</ProjectName>
+    <EmployeeName>SnoopDogg</EmployeeName>
+    <Comment>cmon</Comment>
+    <FileLoc>
+    </FileLoc>
+  </Task>
+  <Task>
+    <TaskName>Task4</TaskName>
+    <ProjectName>Operation Lucida</ProjectName>
+    <EmployeeName>YasminK</EmployeeName>
+    <Comment>tttt</Comment>
+    <FileLoc>
+    </FileLoc>
+  </Task>
+  <Task>
+    <TaskName>Task3</TaskName>
+    <ProjectName>Operation Lucida</ProjectName>
+    <EmployeeName>YasminK</EmployeeName>
+    <PreviousEmployeeName>SnoopDogg</PreviousEmployeeName>
+    <Comment>
+    </Comment>
+  </Task>
+  <Task>
+    <TaskName>Task1</TaskName>
+    <ProjectName>Project1</ProjectName>
+    <EmployeeName>SnoopDogg</EmployeeName>
+    <Comment>laldldadladl</Comment>
+    <FileLoc>
+    </FileLoc>
+  </Task>
+  <Task>
+    <TaskName>T4</TaskName>
+    <ProjectName>Project1</ProjectName>
+    <EmployeeName>SnoopDogg</EmployeeName>
+    <Comment>rerere</Comment>
+    <FileLoc>C:\Users\Joe\Desktop\project snippets.txt</FileLoc>
+  </Task>
+  <Task>
+    <TaskName>T1</TaskName>
+    <PreviousTaskName>T4</PreviousTaskName>
+    <ProjectName>Project1</ProjectName>
+    <EmployeeName>SnoopDogg</EmployeeName>
+    <PreviousEmployeeName>SnoopDogg</PreviousEmployeeName>
+    <Comment>balash habd</Comment>
+  </Task>
+  <Task>
+    <TaskName>Task1</TaskName>
+    <ProjectName>Project1</ProjectName>
+    <EmployeeName>SnoopDogg</EmployeeName>
+    <Comment>sdadsa</Comment>
+    <FileLoc>C:\Users\Joe\Desktop\project snippets.txt</FileLoc>
+  </Task>
+  <Task>
+    <TaskName>Task2</TaskName>
+    <ProjectName>Proj1</ProjectName>
+    <EmployeeName>YasminK</EmployeeName>
+    <Comment>comment 1</Comment>
+    <FileLoc>C:\Users\Joe\Desktop\project snippets.txt</FileLoc>
+  </Task>
+  <Task>
+    <TaskName>Task44</TaskName>
+    <ProjectName>Proj1</ProjectName>
+    <EmployeeName>AlexT</EmployeeName>
+    <Comment>comment 2</Comment>
+    <FileLoc>
+    </FileLoc>
+  </Task>
+  <Task>
+    <TaskName>Task2</TaskName>
+    <ProjectName>Proj1</ProjectName>
+    <EmployeeName>AlexT</EmployeeName>
+    <PreviousEmployeeName>YasminK</PreviousEmployeeName>
+    <Comment>C:\Users\Joe\Desktop\project snippets.txt</Comment>
+  </Task>
+  <Task>
+    <TaskName>Task3</TaskName>
+    <PreviousTaskName>Task2</PreviousTaskName>
+    <ProjectName>Proj1</ProjectName>
+    <EmployeeName>YasminK</EmployeeName>
+    <PreviousEmployeeName>AlexT</PreviousEmployeeName>
+    <Comment>sdasdas</Comment>
+  </Task>
+</Table>

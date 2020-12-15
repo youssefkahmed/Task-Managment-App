@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table Name="Employees">
+  <Employee>
+    <ID>505</ID>
+    <Username>AlexT</Username>
+    <Password>rumine</Password>
+    <Name>Alex Turner</Name>
+    <Gender>Male</Gender>
+    <Department>Sales</Department>
+  </Employee>
+  <Employee>
+    <ID>233</ID>
+    <Username>YasminK</Username>
+    <Password>12244</Password>
+    <Name>Yasmin Kamal</Name>
+    <Gender>Female</Gender>
+    <Department>HR</Department>
+  </Employee>
+  <Employee>
+    <ID>420</ID>
+    <Username>SnoopDogg</Username>
+    <Password>420420</Password>
+    <Name>Snoop Dogg</Name>
+    <Gender>Male</Gender>
+    <Department>Management</Department>
+  </Employee>
+</Table>

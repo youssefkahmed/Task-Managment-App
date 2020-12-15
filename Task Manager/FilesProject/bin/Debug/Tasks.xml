@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table Name="Tasks">
+  <Task>
+    <TaskName>Task1</TaskName>
+    <ProjectName>Project1</ProjectName>
+    <EmployeeName>SnoopDogg</EmployeeName>
+    <Comment>sdadsa</Comment>
+    <FileLoc>C:\Users\Joe\Desktop\project snippets.txt</FileLoc>
+  </Task>
+  <Task>
+    <TaskName>Task44</TaskName>
+    <ProjectName>Proj1</ProjectName>
+    <EmployeeName>AlexT</EmployeeName>
+    <Comment>
+    </Comment>
+  </Task>
+</Table>

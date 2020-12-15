@@ -1,0 +1,14 @@
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\bin\Release\FilesProject.exe.config
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\bin\Release\FilesProject.exe
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\bin\Release\FilesProject.pdb
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\Release\FilesProject.AddEmployee.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\Release\FilesProject.addProject.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\Release\FilesProject.Admin.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\Release\FilesProject.DisplayEmployees.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\Release\FilesProject.EmployeesMenu.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\Release\FilesProject.Login.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\Release\FilesProject.ProjectForm.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\Release\FilesProject.Properties.Resources.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\Release\FilesProject.csproj.GenerateResource.Cache
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\Release\FilesProject.exe
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\Release\FilesProject.pdb

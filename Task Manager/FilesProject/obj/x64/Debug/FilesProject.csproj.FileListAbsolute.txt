@@ -1,0 +1,15 @@
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\bin\x64\Debug\FilesProject.exe.config
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\bin\x64\Debug\FilesProject.exe
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\bin\x64\Debug\FilesProject.pdb
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\x64\Debug\FilesProject.AddEmployee.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\x64\Debug\FilesProject.addProject.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\x64\Debug\FilesProject.Admin.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\x64\Debug\FilesProject.DisplayEmployees.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\x64\Debug\FilesProject.EmployeesMenu.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\x64\Debug\FilesProject.Login.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\x64\Debug\FilesProject.ProjectForm.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\x64\Debug\FilesProject.Properties.Resources.resources
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\x64\Debug\FilesProject.csproj.GenerateResource.Cache
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\x64\Debug\FilesProject.exe
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\x64\Debug\FilesProject.pdb
+C:\Users\Yousef\Desktop\FilesProject\FilesProject\FilesProject\obj\x64\Debug\FilesProject.csprojResolveAssemblyReference.cache

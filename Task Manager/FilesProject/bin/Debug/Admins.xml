@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table Name="Admins">
+  <Admin>
+    <Username>Admin1</Username>
+    <Password>12345</Password>
+  </Admin>
+  <Admin>
+    <Username>Admin2</Username>
+    <Password>6789</Password>
+  </Admin>
+  <Admin>
+    <Username>Admin3</Username>
+    <Password>bestadminever</Password>
+  </Admin>
+  <Admin>
+    <Username>Admin5</Username>
+    <Password>123123</Password>
+    <ID>233</ID>
+    <Name>Ahmed Metwally</Name>
+    <Gender>Male</Gender>
+    <Department>Management</Department>
+  </Admin>
+</Table>
